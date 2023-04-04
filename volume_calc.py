@@ -18,3 +18,5 @@ elif total_length<=120: cost=10000
 elif total_length<=160: cost=13000
 else: cost="Not Defined"
 print("요금 :", cost)
+
+#수정
