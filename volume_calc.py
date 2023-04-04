@@ -20,3 +20,4 @@ else: cost="Not Defined"
 print("요금 :", cost)
 
 #수정
+#수정2
