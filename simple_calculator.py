@@ -31,7 +31,7 @@ def subtraction(num1, num2):
 while True:
     op = input("input operation:")
     if op == "end":
-        break  # "반복을 종료"
+        break  # 반복을 종료
     elif op == "+":
         num1, num2, ret = arithmetic_ops(addition)  # 정의된 함수 사용
     elif op == "*":
